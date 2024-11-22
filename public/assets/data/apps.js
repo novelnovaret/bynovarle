@@ -31,8 +31,8 @@ var apps = [
     },
     {
       "id": "geforce",
-      "title": "GeForce NOW (may not work)",
-      "url": "https://play.geforcenow.com",
+      "title": "Removed cause its paid",
+      "url": "https://sites.google.com/view/mightbebloacked/hello",
       'image': 'https://raw.githubusercontent.com/proudparrot2/cdn/main/8z9zeDIT_400x400-removebg-preview.png'
     },
     {
